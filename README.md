@@ -1,2 +1,2 @@
-Hi, my name is Sasha
+Hi, my name is Sasha.
 I like mum
