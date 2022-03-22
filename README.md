@@ -1,4 +1,2 @@
-# test-project
-Me first repository
-
-New information
+Hi, my name is Sasha
+I like mum
